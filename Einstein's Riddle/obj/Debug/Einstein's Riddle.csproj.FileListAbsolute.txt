@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C# Projects\Einstein's Riddle\Einstein's Riddle\bin\Debug\Einstein's Riddle.exe.config
+C:\Users\user\Desktop\C# Projects\Einstein's Riddle\Einstein's Riddle\bin\Debug\Einstein's Riddle.exe
+C:\Users\user\Desktop\C# Projects\Einstein's Riddle\Einstein's Riddle\bin\Debug\Einstein's Riddle.pdb
+C:\Users\user\Desktop\C# Projects\Einstein's Riddle\Einstein's Riddle\obj\Debug\Einstein's Riddle.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Projects\Einstein's Riddle\Einstein's Riddle\obj\Debug\Einstein's Riddle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Projects\Einstein's Riddle\Einstein's Riddle\obj\Debug\Einstein's Riddle.exe
+C:\Users\user\Desktop\C# Projects\Einstein's Riddle\Einstein's Riddle\obj\Debug\Einstein's Riddle.pdb
